@@ -54,5 +54,5 @@ O objetivo principal é sair da manutenção reativa para o *agendamento proativ
 
 ### Autor
 * *André dos Reis Soares*
-* *LinkedIn:* https://www.linkedin.com/in/andr%C3%A9-soares-123463346/
+* *LinkedIn:* www.linkedin.com/in/andré-soares-123463346
 *
